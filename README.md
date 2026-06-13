@@ -2,7 +2,7 @@
 
 A database-centric, full-stack social platform implementation. This project recreates core WeChat functionalities with a heavy emphasis on backend integrity, role-based security, and efficient data modeling.
 
-> **Academic Note**: This is the Final Project for the **CS145 Introduction to Database Systems** course at **Fudan University (Spring 2026)**, developed with my classmates **Lin Jiahui** and **Chen Ying** together.
+> **Academic Note**: This is the Final Project for the **Introduction to Database Systems** course at **Fudan University (Spring 2026)**, developed with my classmates **Lin Jiahui** and **Chen Ying** together.
 
 ---
 
@@ -72,7 +72,7 @@ A database-centric, full-stack social platform implementation. This project recr
 
 这是一个以数据库为核心、全栈式的社交平台实现。本项目复刻了微信的核心社交功能，重点展示了后端数据完整性、基于角色的安全机制（RBAC）以及高效的数据建模能力。
 
-> **课程背景**: 本项目为 **复旦大学 2026年春季学期《数据库引论 (CS145)》** 期末项目，与我的同学**Jiahui Lin**、**Ying Chen** 共同完成。
+> **课程背景**: 本项目为 **复旦大学 2026年春季学期《数据库引论》** 期末项目，与我的同学**Jiahui Lin**、**Ying Chen** 共同完成。
 
 ---
 
